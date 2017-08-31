@@ -1,0 +1,39 @@
+body{
+	font-size: 76%;
+}
+body *{
+	font-size: 1em;
+}
+a{
+	font-weight: bold;
+	text-decoration: none;
+}
+header nav{
+	text-decoration: none;
+	font-weight: bold;
+}
+article{
+	line-height: 1.8em;
+}
+article p{
+	margin: 3em 0;
+	font-size: 1.5em;
+}
+h1{
+	font:2.4em normal;
+}
+h2{
+	font:1.8em normal;
+	margin-top: 1em;
+	font-weight: bold;
+}
+h3{
+	font:1.4em normal;
+	margin-top: 1em;
+}
+#imagegallery li{
+	list-style-type: none;
+}
+table{
+	font-size: 17px;
+}
